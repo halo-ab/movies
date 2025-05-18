@@ -149,7 +149,8 @@ User - {}"""
     
     VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {} {},
 
-📌 <u>ʏᴏᴜ To get your movie ! Click on the verify button ✅
+📌 <u> To get your movie !!
+Click on the verify button ✅
 and search your movie again .. Thanks 🙏 
 
 </b>"""
