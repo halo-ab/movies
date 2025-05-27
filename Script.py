@@ -1,6 +1,6 @@
 import os
 class script(object):
-    START_TXT = """<b>ʜᴇʏ {}, {}\n\nHere You Can Get Movie's, Just Sent Movie OR WebSeries Name With Proper Spelling..!! !! 😍\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/+oQSpiAucbQ8zYzc1">Deep Movies 🍿</a></blockquote></b>"""
+    START_TXT = """<b>ʜᴇʏ {}, {}\n\nHere You Can Get Movie's, Just Sent Movie OR WebSeries Name With Proper Spelling..!! 😍\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/+oQSpiAucbQ8zYzc1">Deep Movies 🍿</a></blockquote></b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
     
