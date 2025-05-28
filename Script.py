@@ -113,7 +113,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥<a href='https://t.me/+oQSpiAucbQ8zYzc1'>Deep movies group 🍿</a></b>"""
+    FILE_CAPTION = """<b>{file_name}\n\n<a href='https://t.me/+oQSpiAucbQ8zYzc1'>𝖩𝗈𝗂𝗇➥Deep movies group 🍿</a></b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
